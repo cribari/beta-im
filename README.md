@@ -1,5 +1,11 @@
 # beta-im
 Correct model specification tests for the beta model
 
-# article: 
+# article
 Beta distribution misspecification tests with application to Covid-19 mortality rates in the United States
+
+# dataset 1 (states)
+
+# dataset 2 (counties) 
+
+
