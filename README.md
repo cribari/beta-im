@@ -15,7 +15,7 @@ columns:
 - rate_vaccination: vaccination rate computed using data until October 31, 2021. 
 
 # dataset 2 (counties) 
-file: data_counties.csv 
+files: data_counties_1.csv (period 1), data_counties_2.csv (period 2), data_counties_3.csv (period 3).  
 
 columns:  
 - fips: county code 
@@ -26,4 +26,5 @@ columns:
 - rate_mort_period3: mortality rate per 100 inhabitants from December 15, 2020 to October 31, 2021 (period 3);
 - rate_vaccination: vaccination rate computed using data until October 31, 2021.
 
-
+# contact 
+cribari at gmail dot com / cribari at de dot ufpe dot br
