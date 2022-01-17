@@ -6,6 +6,7 @@ Beta distribution misspecification tests with application to Covid-19 mortality 
 
 # dataset 1 (states)
 file: data_states.csv
+
 variables: 
 - rate_mort_period1: mortality rate per 100 inhabitants from January 22, 2020 to December 14, 2020 (period 1);
 - rate_mort_period2: mortality rate per 100 inhabitants from January 22, 2020 to October 31, 2021 (period 2); 
