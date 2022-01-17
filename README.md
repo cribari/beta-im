@@ -20,9 +20,9 @@ variables:
 - fips: county code 
 - state: state
 - county: county 
-- RM_period1: mortality rate per 100 inhabitants from January 22, 2020 to December 14, 2020 (period 1);
-- RM_period2: mortality rate per 100 inhabitants from January 22, 2020 to October 31, 2021 (period 2);
-- RM_period3: mortality rate per 100 inhabitants from December 15, 2020 to October 31, 2021 (period 3);
-- Vac_rate: vaccination rate computed using data until October 31, 2021.
+- rate_mort_period1: mortality rate per 100 inhabitants from January 22, 2020 to December 14, 2020 (period 1);
+- rate_mort_period2: mortality rate per 100 inhabitants from January 22, 2020 to October 31, 2021 (period 2);
+- rate_mort_period3: mortality rate per 100 inhabitants from December 15, 2020 to October 31, 2021 (period 3);
+- rate_vaccination: vaccination rate computed using data until October 31, 2021.
 
 
